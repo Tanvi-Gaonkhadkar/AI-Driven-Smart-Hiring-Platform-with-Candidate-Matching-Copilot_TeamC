@@ -21,7 +21,7 @@ An AI-powered recruitment platform that helps recruiters streamline candidate sc
 
 ```bash
 git clone <repository-url>
-cd ARTM_CopilotDashboard
+cd Final-Project
 pip install -r requirements.txt
 ollama pull llama3.2
 streamlit run Login.py
